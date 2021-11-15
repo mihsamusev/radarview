@@ -1,0 +1,82 @@
+[
+        {
+        "name":"A1, ttyS3",
+        "lat":56.212671,
+        "lon":10.278309,
+        "easting":579284.47,
+        "northing":6230484.82,
+        "azimuth":27.9,
+        "color":"green",
+        "filter": {
+            "active": false,
+            "px": [0, 200],
+            "py": [],
+            "vx": [0.0, 200],
+            "vy": []
+            }
+        },
+        {
+        "name":"A2, ttyS4",
+        "lat":56.212615,
+        "lon":10.278743,
+        "easting":579311.51,
+        "northing":6230479.09,
+        "azimuth":208.7,
+        "color":"blue",
+        "filter": {
+            "active": false,
+            "px": [0, 300],
+            "py": [],
+            "vx": [-200, 0],
+            "vy": []
+            }
+        },
+        {
+        "name":"A2, ttyS1",
+        "lat":56.212615,
+        "lon":10.278743,
+        "easting":579311.51,
+        "northing":6230479.09,
+        "azimuth":209.1,
+        "color":"lightblue",
+        "filter": {
+            "active": true,
+            "px": [0, 300],
+            "py": [],
+            "vx": [-200, 0],
+            "vy": []
+            }
+        },
+        {
+        "name":"B, ttyS2",
+        "lat":56.212736,
+        "lon":10.278531,
+        "easting":579298.11,
+        "northing":6230492.31,
+        "azimuth":115,
+        "color":"red",
+        "filter": {
+            "active": false,
+            "px": [0, 200],
+            "py": [],
+            "vx": [-200, 200],
+            "vy": []
+            }
+        },
+        {
+        "name":"A1, ttyS0",
+        "lat":56.212577,
+        "lon":10.278443,
+        "easting":579292.98,
+        "northing":6230474.52,
+        "azimuth":25.2,
+        "color":"lightgreen",
+        "filter": {
+            "active": false,
+            "px": [0, 200],
+            "py": [],
+            "vx": [-200, 0],
+            "vy": []
+            }
+        }
+]
